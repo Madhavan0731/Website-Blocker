@@ -15,5 +15,7 @@ A website blocker is a lightweight tool designed to prevent access to specified 
 
  ### follow the same steps to unblock.
 
+-----------------------------------------------------------------------------------------
+
 
 _I worked on this project as part of a team during my internship._
